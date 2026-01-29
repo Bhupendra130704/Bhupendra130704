@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I’m Bhupendra Sharma
+Mechanical Engineer | Robotics | Computer Vision
 
-<!--
-**Bhupendra130704/Bhupendra130704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I work on
+- Robotics & mechatronic systems
+- Computer vision for automation
+- Sensor-based interactive systems
+- Manufacturing-oriented problem solving
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Python, C++
+- OpenCV, NumPy, MATLAB
+- Intel RealSense, LiDAR
+- Arduino, basic embedded systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus
+- Vision-based automation
+- Real-time sensing & control
+- Industry-relevant robotics projects
+
+## 📫 Connect
+- LinkedIn: [Bhupendra Sharma](<https://www.linkedin.com/in/bhupendra-sharma-b1593823a/>)
