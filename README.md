@@ -11,7 +11,8 @@ Mechanical Engineer | Robotics | Computer Vision
 - Python, C++
 - OpenCV, NumPy, MATLAB
 - Intel RealSense, LiDAR
-- Arduino, basic embedded systems
+- Arduino, Raspberry Pi, basic embedded systems
+- Solidworks,Ansys
 
 ## 📌 Current Focus
 - Vision-based automation
