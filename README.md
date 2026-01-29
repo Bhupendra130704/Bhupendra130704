@@ -21,3 +21,4 @@ Mechanical Engineer | Robotics | Computer Vision
 
 ## 📫 Connect
 - LinkedIn: [Bhupendra Sharma](<https://www.linkedin.com/in/bhupendra-sharma-b1593823a/>)
+- Gmail: <bhupendra.kdl100@gmail.com>
