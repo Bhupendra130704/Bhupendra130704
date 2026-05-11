@@ -1,17 +1,17 @@
 ## 👋 Hi, I’m Bhupendra Sharma
-Mechanical Engineer | Robotics | Computer Vision
+Computer Vision Engineer | Robotics
 
 ## 🔧 What I work on
-- Robotics & mechatronic systems
 - Computer vision for automation
+- Robotics & mechatronic systems
 - Sensor-based interactive systems
 - Manufacturing-oriented problem solving
 
 ## 🛠 Tech Stack
-- Python, C++
-- OpenCV, NumPy, MATLAB
-- Intel RealSense, LiDAR
-- Arduino, Raspberry Pi, basic embedded systems
+- OpenCV, Image Processing, Gesture Recognition, YOLO (YOLOv8), Depth Sensing,
+- Machine Learning, Deep Learning, PyTorch, ONNX, CNNs, Anomaly Detection(PatchCore)
+- Python, C++, Git, Docker, scikit-learn, NumPy, MATLAB
+- Intel RealSense, LiDAR, Arduino, Raspberry Pi, basic embedded systems
 - Solidworks,Ansys
 
 ## 📌 Current Focus
