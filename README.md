@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Bhupendra Sharma
-Computer Vision Engineer | Robotics
+Computer Vision Engineer | Robotics | AI & Automation
 
 ## 🔧 What I work on
 - Computer vision for automation
